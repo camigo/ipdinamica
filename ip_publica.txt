@@ -1,1 +1,1 @@
-test servidor1 Enoc1 - actualizacion IP Pública: 181.161.4.177 - Fecha: 2025-06-29 - Hora: 2025-06-29 23:00:08.470168
+test servidor1 Enoc1 - actualizacion IP Pública: 181.161.4.177 - Fecha: 2025-06-30 - Hora: 2025-06-30 00:00:06.431728
